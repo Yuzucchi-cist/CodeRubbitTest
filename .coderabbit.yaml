@@ -13,8 +13,7 @@ reviews:
 - public API の振る舞いがテストで保証されているか
       "
     - path: "tests/**/*.cs"
-      instructions:
-      "
+      instructions: "
 # テストに関する観点を強調
 - テストは Arrange / Act / Assert の構造が明確か
 - テスト名から仕様が読み取れるか
